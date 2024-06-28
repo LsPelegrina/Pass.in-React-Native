@@ -13,7 +13,7 @@ import { Input } from "@/components/input"
 import { Button } from "@/components/button"
 
 
-const EVENT_ID = "06978dae-b254-49a4-9499-47831a2113e9"
+const EVENT_ID = "9e9bd979-9d10-4915-b339-3786b1634f33"
 
 
 export default function Register(){
